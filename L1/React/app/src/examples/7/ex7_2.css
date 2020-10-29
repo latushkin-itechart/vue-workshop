@@ -1,0 +1,15 @@
+.ex7_2 .red {
+    color: red;
+}
+.ex7_2 .green {
+    color: green;
+}
+.ex7_2 .big {
+    font-size: 24px;
+}
+.ex7_2 .underline {
+    text-decoration: underline;
+}
+.ex7_2 .filled {
+    background-color: yellow;
+}
