@@ -17,6 +17,7 @@
     <p @click="onElementClick">
       <button @click.stop="void 0">Void stop propagation handler</button>
       <button @click.stop="() => {}">Void stop propagation handler</button>
+      <button @click.stop="clickCount ++ ">Void stop propagation handler</button>
     </p>
   </div>
 </template>
