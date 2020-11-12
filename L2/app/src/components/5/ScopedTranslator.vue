@@ -17,7 +17,7 @@
           <slot name="en" :translate="en"></slot>
         </td>
         <td>
-          <slot name="hu" :translate="hu"></slot>
+          <slot name="hu" :translate="hu" :x="1"></slot>
         </td>
       </tr>
     </tbody>

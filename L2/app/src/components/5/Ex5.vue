@@ -2,7 +2,7 @@
   <div>
     <h3> Slots example </h3>
     <hr/>
-    <SlotHeader>Header component with sloting content</SlotHeader>
+    <SlotHeader>Header component with <b>sloting</b> content</SlotHeader>
     <hr/>
     <NotificationsCounter>
       Notifications
@@ -11,7 +11,7 @@
     <hr/>
 
     <ScopedTranslator text="Страна">
-      <template v-slot:ru="{ translate }">
+      <template v-slot:ru="{ translate, x }">
         <span class="text-primary">{{ translate }}</span>
       </template>
       <template v-slot:en="{ translate }">

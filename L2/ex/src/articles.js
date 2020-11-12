@@ -1,0 +1,43 @@
+export default  [{
+  id: 1,
+  title: 'Article 1',
+  description: 'Porttitor fringilla vehicula rutrum auctor adipiscing diam torquent etiam dapibus orci consectetur netus pulvinar a a mus taciti a aenean enim convallis suscipit adipiscing natoque himenaeos.',
+  published_at: '2020-10-13',
+  views: Math.round(Math.random() * 100 + 100),
+  likes: Math.round(Math.random() * 10),
+}, {
+  id: 2,
+  title: 'Article 2',
+  description: 'Porttitor fringilla vehicula rutrum auctor adipiscing diam torquent etiam dapibus orci consectetur netus pulvinar a a mus taciti a aenean enim convallis suscipit adipiscing natoque himenaeos.',
+  published_at: '2020-10-13',
+  views: Math.round(Math.random() * 100 + 100),
+  likes: Math.round(Math.random() * 10),
+}, {
+  id: 3,
+  title: 'Article 3',
+  description: 'A adipiscing imperdiet a venenatis erat dui amet inceptos nec venenatis a dui class mollis litora primis mi.',
+  published_at: '2020-10-13',
+  views: Math.round(Math.random() * 100 + 100),
+  likes: Math.round(Math.random() * 10),
+}, {
+  id: 4,
+  title: 'Article 4',
+  description: 'Tempus vestibulum convallis nec neque penatibus odio nec a dignissim ullamcorper himenaeos scelerisque dictumst felis cursus a vestibulum at a a a ac per consectetur pharetra id ullamcorper a.Urna suscipit metus in feugiat a quis sociosqu ad porttitor adipiscing elit ullamcorper.',
+  published_at: '2020-10-13',
+  views: Math.round(Math.random() * 100 + 100),
+  likes: Math.round(Math.random() * 10),
+}, {
+  id: 5,
+  title: 'Article 5',
+  description: '',
+  published_at: '2020-10-13',
+  views: Math.round(Math.random() * 100 + 100),
+  likes: Math.round(Math.random() * 10),
+}, {
+  id: 6,
+  title: 'Article 6',
+  description: 'Mi tellus nibh suspendisse at conubia fringilla consequat varius interdum velit libero neque a adipiscing vestibulum risus aenean parturient ligula in.Enim condimentum id enim scelerisque gravida tempus diam facilisis vestibulum mattis pulvinar.',
+  published_at: '2020-10-13',
+  views: Math.round(Math.random() * 100 + 100),
+  likes: Math.round(Math.random() * 10),
+}]
