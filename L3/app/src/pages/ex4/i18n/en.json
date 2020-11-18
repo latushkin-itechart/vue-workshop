@@ -1,0 +1,24 @@
+{
+  "app": {
+    "name": "I18n app",
+    "gift": "(no gifts) | gift |  gifts",
+    "receive": "You will receive",
+    "submit": "Your data was successfully sent!"
+  },
+  "lang": {
+    "en": "English",
+    "ru": "Russian"
+  },
+  "form": {
+    "name": "Your name",
+    "namePlaceholder": "Enter valid user name",
+    "age": "Age",
+    "agePlaceholder": "You must be at least {age} years old.",
+    "donation": "Donation, $",
+    "donationPlaceholder": "Amount of money you want to spend"
+  },
+  "actions": {
+    "submit": "Submit",
+    "discard": "Discard"
+  }
+}
