@@ -16,6 +16,7 @@ const i18n = new VueI18n({
   locale: 'en',
   fallbackLocale: 'en',
 })
+
 new Vue({
   vuetify: vuetifyConfig,
   i18n,

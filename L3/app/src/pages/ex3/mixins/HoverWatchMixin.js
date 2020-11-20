@@ -12,6 +12,7 @@ export default {
       this.log.mouseEnters += 1;
     }
   },
+
   mounted() {
     console.log('Hover detection activated for component ' + this.name);
   }
